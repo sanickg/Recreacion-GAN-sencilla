@@ -1,10 +1,5 @@
 # GAN sencilla para aprender (MNIST)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU-no%20necesaria-green)
-![Uso](https://img.shields.io/badge/uso-educativo-orange)
-
 Implementación minimalista y documentada de una **Red Generativa Antagónica (GAN)** que aprende a generar dígitos escritos a mano, como los del dataset [MNIST](http://yann.lecun.com/exdb/mnist/), a partir de ruido aleatorio.
 
 Este es un proyecto de ejemplo, hecho para **aprender**, no para obtener el mejor resultado posible. El código es corto, está comentado y puede leerse de principio a fin en una sola sesión.
